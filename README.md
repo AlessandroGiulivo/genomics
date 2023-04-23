@@ -23,7 +23,7 @@ The data consists of:
 
 The data were retrieved from the folder `BCG2023_genomics_exam`.
 
-# Results
+## Results
 
 | **CASE** | **LOCATION** | **REF** | **ALT** | **CONSEQUENCE** | **GENE** | **DISEASE** |
 | :---: | :---: | :--: | :--: | :------: | :-----: | :--------------: | 
