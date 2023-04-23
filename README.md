@@ -8,7 +8,11 @@ In particular, we worked with **exome sequencing of chromosome 16** of five *TRI
 
 The TRIOs studied in this project were:
 
-case 1642; 		case 1608; 		case 1765; 		case 1682; 		case 1705.
+* case 1642;
+* case 1608;
+* case 1765;
+* case 1682;
+* case 1705.
 
 The majority of the workflow was performed on the *unix server* of the course, within the `BCG2023_agiulivo/finalProj` folder; a subfolder for each *case* was created with the `mkdir` command.  
 The data consists of:
