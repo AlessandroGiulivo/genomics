@@ -43,6 +43,8 @@ Then, a high impact variant for case *1705* was found on gene **RPGRIP1L**. The 
 \
 Finally, instead, for *case 1608*, no variants with a **high impact** were found to be associated with any rare disease. Therefore, we looked for variants with a moderate impact: one missense variant with moderate impact was found on the **CREBBP** gene (so, a possible cause for Rubinstein-Taybi syndrome). However, the frequency of this allele according to *gnomAD* is not very low ($0.009$; but should be $\leq$ 10<sup>-4</sup> to be in accordance with the rareness of the diseases we are looking for). Moreover, only *PolyPhen* showed a significant score for the pathogenicity of the variant; other pathogenicity predictors such as *SIFT* and *CADD*, classified it as “tolerated”, “likely benign”. As a consequence, *case 1608* was diagnosed as: **healthy**.  
 
+-------------------------
 
+The pdf report was compiled from a .md document with `pandoc`
 
 
