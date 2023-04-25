@@ -45,6 +45,6 @@ Finally, instead, for *case 1608*, no variants with a **high impact** were found
 
 -------------------------
 
-The pdf report was compiled from a .md document with `pandoc`
+The pdf report was compiled from a `.md` document with `pandoc`.
 
 
