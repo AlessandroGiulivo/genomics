@@ -1,3 +1,6 @@
+![](images/unimi_logo.png)
+# **Molecular Diagnosis of Rare Genetic Disorders in 5 Individuals**
+
 ## Overview
 In this final assessment project for the Genomics course at University of Milan, we applied experimental approaches studied during the course for the analysis and interpretation of human genomic data. 
 In particular, we worked with **exome sequencing of chromosome 16** of five *TRIOs* of individuals (*mother, father, child*) where parents are known to be healthy, whilst the child is possibly affected by a **rare mendelian disease**.  
