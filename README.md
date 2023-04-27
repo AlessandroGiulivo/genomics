@@ -1,4 +1,4 @@
-# **Molecular Diagnosis of Rare Genetic Disorders in 5 Individuals** <img src=images/unimi_logo.png align="right" width="160px"/>
+# <img src=images/unimi_logo.png align="right" width="400px"/> **Molecular Diagnosis of Rare Genetic Disorders in 5 Individuals**
 
 ## Overview
 In this final assessment project for the Genomics course at University of Milan, we applied experimental approaches studied during the course for the analysis and interpretation of human genomic data. 
